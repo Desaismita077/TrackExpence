@@ -1,0 +1,4 @@
+250,Food,Lunch at office
+120,Transport,Bus ticket
+500,Shopping,Groceries
+75,Coffee,Evening coffee
